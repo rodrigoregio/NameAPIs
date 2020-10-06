@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NameAPIs</string>
+    <string name="textViewNomes">Insira nomes separados com \',\'</string>
+    <string name="ViewInfo">Verificar nomes</string>
+    <string name="TextViewResult">Resultado:</string>
+    <string name="contentdescriptionresult">O resultado ira aparecer aqui.</string>
+</resources>
